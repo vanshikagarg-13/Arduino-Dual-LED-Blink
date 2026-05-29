@@ -21,7 +21,7 @@ This is my beginner Arduino project using two LEDs.
 - Repeats continuously
 
 # Files
-- Arduino code
-- Schematic image
-- Hardware setup image
-- Working video
+- Arduino code (led-dual-blink-code.ino)
+- Schematic image (schematic.png)
+- Hardware setup image (hardware.jpeg)
+- Working video (demo.mp4)
